@@ -1,7 +1,7 @@
-<h2 style='text-shadow:0 0 20px #eee' align="center">&lt;Web Sheel &gt;</h2>
+<h2 style='text-shadow:0 0 20px #eee' align="center">&lt;Web Sheel /&gt;</h2>
 <p><b>Unauthorized use is the responsibility of the user !!</b></p>
 <ul>
-  <p>Advantages :</p>
+  <p>👁️ Advantages :</p>
     <li>Codes are obfuscated </li>
     <li>If the file is not uploaded, change the name ! </li>
     <li>The source is encrypted with <b>MD5</b> encryption so that it is not deleted </li>
