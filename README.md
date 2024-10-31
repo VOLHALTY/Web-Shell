@@ -1,5 +1,7 @@
 <h2 style='text-shadow:0 0 20px #eee' align="center">&lt;Web Sheel /&gt;</h2>
 <p><b>Unauthorized use is the responsibility of the user !!</b></p>
+<p>This code is open source and the code is powered by <a href="https://t.me/VOLHALTY">https://t.me/VOLHALTY 📢 </a></p>
+<hr>
 <ul>
   <p>👁️ Advantages :</p>
     <li>Codes are obfuscated </li>
@@ -11,4 +13,4 @@
 <div align="center">
 <img src="Screenshot 2024-10-31 164628.png" width="550px" style="border-radius:20px">
 </div>
-<p><a href="https://t.me/VOLHALTY">Code by VOLHALTY</a></p>
+
