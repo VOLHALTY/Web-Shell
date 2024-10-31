@@ -1,1 +1,1 @@
-<h1>Welcome To Shell</h1>
+<p>Unauthorized use is the responsibility of the user !!</p>
